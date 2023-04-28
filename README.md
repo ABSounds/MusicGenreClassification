@@ -33,10 +33,14 @@ To use this classifier, you need to follow these steps:
 The classification is not perfect, but it achieves an average accuracy of about 82.5% using 10-fold cross-validation. There are some missclassifications due to the similarity between genres (country/blues, classical/jazz, rock/country...)
 
 The confusion matrix for the classification is the following:
-![Classification confusion matrix](confMatrix.png)
+<div align="center">
+    <img src="confMatrix.png" width="400"/>
+</div>
 
 And the 5 most important features for the classification are:
-![Most important features](features.png)
+<div align="center">
+    <img src="features.png" width="500"/>
+</div>
 
 ## Credits
 
