@@ -1,5 +1,5 @@
 # Music genre classification using Machine Learning
-### Feature-based classification of music genres using SVM with Scikit-Learn.
+### Feature-based music genre classification using SVM with Scikit-Learn.
 
 ## Summary
 This project aims to develop a music genre classifier using Machine Learning algorithms with [Scikit-Learn](https://scikit-learn.org/). The classifier is trained on a dataset of precomputed audio features labeled with their genre, and uses a Support Vector Machine (SVM) with a linear kernel to predict the genre of new audio files based on their features.
