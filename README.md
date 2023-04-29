@@ -44,4 +44,4 @@ And the 5 most important features for the classification are:
 
 ## Credits
 
-This project was developed by [Alberto Barrera](https://github.com/ABsoundsDSP) as part of the [Advanced Topics in SMC](https://www.upf.edu/web/smc/advance-topics-in-smc) course at UPF.
+This project was developed as part of the [Advanced Topics in SMC](https://www.upf.edu/web/smc/advance-topics-in-smc) course at UPF.
