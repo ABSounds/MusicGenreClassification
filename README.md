@@ -20,7 +20,7 @@ pip install scikit-learn pandas numpy matplotlib seaborn scipy
 
 To use this classifier, you need to follow these steps:
 
-1. Download or clone the GitHub repository [here](https://github.com/username/Music-Genre-Classification/blob/main/Genre.arff).
+1. Download or clone the GitHub repository [here](https://github.com/ABSounds/MusicGenreClassification.git).
 
 2. Open the Jupyter notebook `GenreClassificationML.ipynb` and run all the cells.
 
